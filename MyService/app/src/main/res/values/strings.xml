@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyService</string>
+    <!-- Buttons-->
+    <string name="startButton">Start notification</string>
+    <string name="stopButton">Stop notification</string>
+
+    <!-- Text Views-->
+    <string name="set_interval">Set interval</string>
+    <string name="edit_interval">Set interval in minutes</string>
+    <string name="set_notification">Notification</string>
+    <string name="edit_notification">Edit your notification</string>
+
+    <string name="Notification">Notification</string>
+    <string name="defaultNotification">Its time for tea</string>
+
+</resources>
